@@ -1,0 +1,11 @@
+D:\CuoiKi_DBMS\ProjectCuoiKi_DBMS\ProjectCuoiKi_DBMS\bin\Debug\ProjectCuoiKi_DBMS.exe.config
+D:\CuoiKi_DBMS\ProjectCuoiKi_DBMS\ProjectCuoiKi_DBMS\bin\Debug\ProjectCuoiKi_DBMS.exe
+D:\CuoiKi_DBMS\ProjectCuoiKi_DBMS\ProjectCuoiKi_DBMS\bin\Debug\ProjectCuoiKi_DBMS.pdb
+D:\CuoiKi_DBMS\ProjectCuoiKi_DBMS\ProjectCuoiKi_DBMS\obj\Debug\ProjectCuoiKi_DBMS.csproj.AssemblyReference.cache
+D:\CuoiKi_DBMS\ProjectCuoiKi_DBMS\ProjectCuoiKi_DBMS\obj\Debug\ProjectCuoiKi_DBMS.frmKetNoi.resources
+D:\CuoiKi_DBMS\ProjectCuoiKi_DBMS\ProjectCuoiKi_DBMS\obj\Debug\ProjectCuoiKi_DBMS.frmHienThiThongTin.resources
+D:\CuoiKi_DBMS\ProjectCuoiKi_DBMS\ProjectCuoiKi_DBMS\obj\Debug\ProjectCuoiKi_DBMS.Properties.Resources.resources
+D:\CuoiKi_DBMS\ProjectCuoiKi_DBMS\ProjectCuoiKi_DBMS\obj\Debug\ProjectCuoiKi_DBMS.csproj.GenerateResource.cache
+D:\CuoiKi_DBMS\ProjectCuoiKi_DBMS\ProjectCuoiKi_DBMS\obj\Debug\ProjectCuoiKi_DBMS.csproj.CoreCompileInputs.cache
+D:\CuoiKi_DBMS\ProjectCuoiKi_DBMS\ProjectCuoiKi_DBMS\obj\Debug\ProjectCuoiKi_DBMS.exe
+D:\CuoiKi_DBMS\ProjectCuoiKi_DBMS\ProjectCuoiKi_DBMS\obj\Debug\ProjectCuoiKi_DBMS.pdb
